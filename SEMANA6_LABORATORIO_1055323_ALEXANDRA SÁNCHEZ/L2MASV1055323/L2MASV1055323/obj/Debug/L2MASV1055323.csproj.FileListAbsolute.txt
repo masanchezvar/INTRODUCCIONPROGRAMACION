@@ -1,0 +1,7 @@
+C:\Users\malex\OneDrive\Documentos\Universidad 2023\Segundo ciclo\Programación\Laboratorio de Programación\SEMANA6_LABORATORIO_1055323_ALEXANDRA SÁNCHEZ\L2MASV1055323\L2MASV1055323\bin\Debug\L2MASV1055323.exe.config
+C:\Users\malex\OneDrive\Documentos\Universidad 2023\Segundo ciclo\Programación\Laboratorio de Programación\SEMANA6_LABORATORIO_1055323_ALEXANDRA SÁNCHEZ\L2MASV1055323\L2MASV1055323\bin\Debug\L2MASV1055323.exe
+C:\Users\malex\OneDrive\Documentos\Universidad 2023\Segundo ciclo\Programación\Laboratorio de Programación\SEMANA6_LABORATORIO_1055323_ALEXANDRA SÁNCHEZ\L2MASV1055323\L2MASV1055323\bin\Debug\L2MASV1055323.pdb
+C:\Users\malex\OneDrive\Documentos\Universidad 2023\Segundo ciclo\Programación\Laboratorio de Programación\SEMANA6_LABORATORIO_1055323_ALEXANDRA SÁNCHEZ\L2MASV1055323\L2MASV1055323\obj\Debug\L2MASV1055323.csproj.AssemblyReference.cache
+C:\Users\malex\OneDrive\Documentos\Universidad 2023\Segundo ciclo\Programación\Laboratorio de Programación\SEMANA6_LABORATORIO_1055323_ALEXANDRA SÁNCHEZ\L2MASV1055323\L2MASV1055323\obj\Debug\L2MASV1055323.csproj.CoreCompileInputs.cache
+C:\Users\malex\OneDrive\Documentos\Universidad 2023\Segundo ciclo\Programación\Laboratorio de Programación\SEMANA6_LABORATORIO_1055323_ALEXANDRA SÁNCHEZ\L2MASV1055323\L2MASV1055323\obj\Debug\L2MASV1055323.exe
+C:\Users\malex\OneDrive\Documentos\Universidad 2023\Segundo ciclo\Programación\Laboratorio de Programación\SEMANA6_LABORATORIO_1055323_ALEXANDRA SÁNCHEZ\L2MASV1055323\L2MASV1055323\obj\Debug\L2MASV1055323.pdb
