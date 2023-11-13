@@ -1,0 +1,7 @@
+C:\Users\malex\OneDrive\Documentos\Laboratorio de Programación\PROYECTO No. 02\P2MASV1055323\P2MASV1055323\bin\Debug\P2MASV1055323.exe.config
+C:\Users\malex\OneDrive\Documentos\Laboratorio de Programación\PROYECTO No. 02\P2MASV1055323\P2MASV1055323\bin\Debug\P2MASV1055323.exe
+C:\Users\malex\OneDrive\Documentos\Laboratorio de Programación\PROYECTO No. 02\P2MASV1055323\P2MASV1055323\bin\Debug\P2MASV1055323.pdb
+C:\Users\malex\OneDrive\Documentos\Laboratorio de Programación\PROYECTO No. 02\P2MASV1055323\P2MASV1055323\obj\Debug\P2MASV1055323.csproj.AssemblyReference.cache
+C:\Users\malex\OneDrive\Documentos\Laboratorio de Programación\PROYECTO No. 02\P2MASV1055323\P2MASV1055323\obj\Debug\P2MASV1055323.csproj.CoreCompileInputs.cache
+C:\Users\malex\OneDrive\Documentos\Laboratorio de Programación\PROYECTO No. 02\P2MASV1055323\P2MASV1055323\obj\Debug\P2MASV1055323.exe
+C:\Users\malex\OneDrive\Documentos\Laboratorio de Programación\PROYECTO No. 02\P2MASV1055323\P2MASV1055323\obj\Debug\P2MASV1055323.pdb
